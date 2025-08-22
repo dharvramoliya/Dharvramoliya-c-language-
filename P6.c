@@ -6,5 +6,5 @@ int main()
     scanf("%d",&hor);
 
     int min = hor*60;
-    printf("value of %d hour in minute is %d seconds",hor,min);
+    printf("value of %d hour in minute is %d ",hor,min);
 }
